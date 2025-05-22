@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', () => {
         e.preventDefault(); // prevent the form from submitting (staying on the same page)
         
         // msg after submission
-        alert('Your message has been sent! Thank you!)');
+        alert('Your message has been sent! Thank you!');
         
         // clear the form after submission
         form.reset();
